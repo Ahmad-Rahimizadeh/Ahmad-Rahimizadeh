@@ -3,6 +3,7 @@
 ### Hi there 👋
 I'm DevOps Engineer from 2019. I have Experiance in architecting/ automating and optimizing mission critical deployments over large infrastructure. proficient with Configuration management tools, and developing CI/CD pipelines and I'm looking for solutions to save time and boost performance.
 
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -23,7 +24,16 @@ I'm DevOps Engineer from 2019. I have Experiance in architecting/ automating and
 ![](https://img.shields.io/badge/Tools-Squid-informational?style=flat&logo=squid&logoColor=white&color=2bbc8a)
 
 
-📫 How to reach me: 
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Rahimizadeh&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Rahimizadeh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+
+## 📫 How to reach me: 
 - Email: ahmadrahimizadeh80@gmail.com
 - linkedin: https://www.linkedin.com/in/ahmad-rahimizadeh/
 - Telegram: @ahmadrahimizadeh
