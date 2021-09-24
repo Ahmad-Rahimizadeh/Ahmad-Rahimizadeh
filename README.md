@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/Ahmad-Rahimizadeh/Ahmad-Rahimizadeh/main/Ahmad%20Rahimizadeh.png "Header")](https://www.linkedin.com/in/ahmad-rahimizadeh/)
 
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/Ahmad-Rahimizadeh/Ahmad-Rahimizadeh/main/wave.gif" width="30px">
 I'm DevOps Engineer from 2019. I have Experiance in architecting/ automating and optimizing mission critical deployments over large infrastructure. proficient with Configuration management tools, and developing CI/CD pipelines and I'm looking for solutions to save time and boost performance.
 
 
