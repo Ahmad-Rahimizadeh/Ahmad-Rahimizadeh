@@ -29,11 +29,11 @@ I'm DevOps Engineer from 2019. I have Experiance in architecting/ automating and
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Rahimizadeh&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/Ahmad-Rahimizadeh/Ahmad-Rahimizadeh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Rahimizadeh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Rahimizadeh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ahmad's GitHub Stats" />
 </a>
 
 
-## 📫 How to reach me: 
+## 📫 How to reach me
 - Email: ahmadrahimizadeh80@gmail.com
 - linkedin: https://www.linkedin.com/in/ahmad-rahimizadeh/
 - Telegram: @ahmadrahimizadeh
