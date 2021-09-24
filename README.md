@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Ahmad-Rahimizadeh/Ahmad-Rahimizadeh/main/Ahmad%20Rahimizadeh.png "Header")](https://www.linkedin.com/in/ahmad-rahimizadeh/)
+[![Header](https://raw.githubusercontent.com/Ahmad-Rahimizadeh/Ahmad-Rahimizadeh/main/AhmadRahimizadeh.png "Header")](https://www.linkedin.com/in/ahmad-rahimizadeh/)
 
 ### Hi there <img src="https://raw.githubusercontent.com/Ahmad-Rahimizadeh/Ahmad-Rahimizadeh/main/wave.gif" width="30px">
 I'm DevOps Engineer from 2019. I have Experiance in architecting/ automating and optimizing mission critical deployments over large infrastructure. proficient with Configuration management tools, and developing CI/CD pipelines and I'm looking for solutions to save time and boost performance.
@@ -34,6 +34,6 @@ I'm DevOps Engineer from 2019. I have Experiance in architecting/ automating and
 
 
 ## 📫 How to reach me
-- Email: ahmadrahimizadeh80@gmail.com
-- linkedin: https://www.linkedin.com/in/ahmad-rahimizadeh/
-- Telegram: @ahmadrahimizadeh
+- <img align="left" src=https://raw.githubusercontent.com/Ahmad-Rahimizadeh/Ahmad-Rahimizadeh/main/Gmail.png width="25px">ahmadrahimizadeh80@gmail.com
+- <img align="left" src=https://raw.githubusercontent.com/Ahmad-Rahimizadeh/Ahmad-Rahimizadeh/main/Linkedin.png width="25px">https://www.linkedin.com/in/ahmad-rahimizadeh/
+- <img align="left" src=https://raw.githubusercontent.com/Ahmad-Rahimizadeh/Ahmad-Rahimizadeh/main/Telegramblue.png width="25px">https://t.me/ahmadrahimizadeh
