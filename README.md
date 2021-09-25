@@ -34,6 +34,12 @@ I'm DevOps Engineer from 2019. I have Experiance in architecting/ automating and
 
 
 ## 📫 How to reach me
+
+
 - <img align="left" src=https://raw.githubusercontent.com/Ahmad-Rahimizadeh/Ahmad-Rahimizadeh/main/Gmail.png width="25px">ahmadrahimizadeh80@gmail.com
+
+
 - <img align="left" src=https://raw.githubusercontent.com/Ahmad-Rahimizadeh/Ahmad-Rahimizadeh/main/Linkedin.png width="25px">https://www.linkedin.com/in/ahmad-rahimizadeh/
+
+
 - <img align="left" src=https://raw.githubusercontent.com/Ahmad-Rahimizadeh/Ahmad-Rahimizadeh/main/Telegramblue.png width="25px">https://t.me/ahmadrahimizadeh
