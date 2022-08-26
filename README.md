@@ -20,7 +20,6 @@ I'm DevOps Engineer since 2019. I have Experiance in architecting/ automating an
 ![](https://img.shields.io/badge/Tools-Minio-informational?style=flat&logo=minio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-VeleroBackup-informational?style=flat&logo=velero&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GitlabCI-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-AsureDevOps-informational?style=flat&logo=asuredevops&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Squid-informational?style=flat&logo=squid&logoColor=white&color=2bbc8a)
 
 
