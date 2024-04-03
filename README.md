@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/Ahmad-Rahimizadeh/Ahmad-Rahimizadeh/main/AhmadRahimizadeh.png "Header")](https://www.linkedin.com/in/ahmad-rahimizadeh/)
-
 ### Hi there <img src="https://raw.githubusercontent.com/Ahmad-Rahimizadeh/Ahmad-Rahimizadeh/main/wave.gif" width="30px">
 As a seasoned DevOps Engineer with expertise dating back to 2017, I excel in automating and refining mission-critical deployments across expansive infrastructures. My adeptness in cloud computing, security, and system administration has consistently driven the delivery of solutions that elevate reliability, performance, and security benchmarks.
 
